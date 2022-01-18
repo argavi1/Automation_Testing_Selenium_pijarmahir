@@ -1,1 +1,1 @@
-# This Automation_Testing_Selenium_pijarmahir contain register & login case script using Python Programming Languange
+# This Automation_Testing_Selenium_pijarmahir Contain Register & Login Case Script Using Python Programming Languange
